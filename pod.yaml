@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: nandha-jarvis/kubernetes-project-image:latest
+          image: nandhajarvis/k8s-project-image:latest
           imagePullPolicy: Always
